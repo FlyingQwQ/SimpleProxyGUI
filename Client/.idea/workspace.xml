@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c4ab275-acdd-4803-ae43-fbc16de56928" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Client$Main.ic" NAME="Main Coverage Results" MODIFIED="1551507448153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>win.mc10.proxy.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="212" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/win/mc10/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+              <folding>
+                <element signature="method#Main#0;class#Main#0" />
+                <element signature="method#paint#0;class#Main#0" />
+                <element signature="method#update#0;class#Main#0" />
+                <element signature="class#UpdateThread#0;class#Main#0" />
+                <element signature="method#main#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/win/mc10/GlobalVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+              <folding>
+                <element signature="method#DrawControl#0;class#DrawControl#0" />
+                <element signature="method#ControlEvent#0;class#DrawControl#0" />
+                <element signature="method#paint#0;class#DrawControl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="method#DrawState#0;class#DrawState#0" />
+                <element signature="method#ControlEvent#0;class#DrawState#0" />
+                <element signature="method#removeEvent#0;class#DrawState#0" />
+                <element signature="method#paint#0;class#DrawState#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawSetting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="method#DrawSetting#0;class#DrawSetting#0" />
+                <element signature="method#ControlEvent#0;class#DrawSetting#0" />
+                <element signature="method#removeEvent#0;class#DrawSetting#0" />
+                <element signature="method#paint#0;class#DrawSetting#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DrawControl</find>
+      <find>add</find>
+      <find>System</find>
+      <find>DisPlayInterface</find>
+      <find>IconImagePath</find>
+      <find>System.out.println</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/win/mc10/StartAnimation.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/SwingControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Listener/FuntionControlListener.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/DrawControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/LoginInterfaceControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Remind.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Enum/Remind.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawRemind.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/RemindControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Listener/ButtonControlListener.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/ButtonControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/TextBoxControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/FuntionControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Listener/displayInterface.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Listener/FontControlListener.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/FontControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawRegisterInterface.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/RemindControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/circularButtonControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawHome.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Listener/CircularButtonListener.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/CircularButtonControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/proxy/DataExchangeThread.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/ButtonControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/proxy/ConnectTunnleServer.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawTunnleRegister.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/FuntionControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/TextBoxControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawLoginInterface.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/Controls/ListControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawTunnleList.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawState.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawSetting.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Controls/DrawControl.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/Main.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/GlobalVariable.java" />
+        <option value="$PROJECT_DIR$/src/win/mc10/proxy/Proxy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="40" />
+    <option name="width" value="1175" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mc10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mc10" type="462c0819:PsiDirectoryNode" />
+              <item name="Controls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mc10" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551511911319" />
+    <property name="last_opened_file_path" value="E:/Git/cmd/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="win.mc10.Controls" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="win.mc10.Main" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="win.mc10.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c4ab275-acdd-4803-ae43-fbc16de56928" name="Default Changelist" comment="" />
+      <created>1549110086668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549110086668</updated>
+      <workItem from="1549110090943" duration="10165000" />
+      <workItem from="1549194531457" duration="10938000" />
+      <workItem from="1549248096672" duration="17652000" />
+      <workItem from="1549347357804" duration="20735000" />
+      <workItem from="1549440078693" duration="11353000" />
+      <workItem from="1549507402520" duration="7946000" />
+      <workItem from="1549596517970" duration="11269000" />
+      <workItem from="1549641669784" duration="248000" />
+      <workItem from="1549677542961" duration="8751000" />
+      <workItem from="1549716797382" duration="2072000" />
+      <workItem from="1549770682832" duration="16980000" />
+      <workItem from="1550022543214" duration="32893000" />
+      <workItem from="1550066173441" duration="2329000" />
+      <workItem from="1550109537177" duration="15122000" />
+      <workItem from="1550140258092" duration="10394000" />
+      <workItem from="1550195759963" duration="43966000" />
+      <workItem from="1550283492264" duration="24852000" />
+      <workItem from="1550458212811" duration="3468000" />
+      <workItem from="1550546540096" duration="3067000" />
+      <workItem from="1550646131165" duration="6467000" />
+      <workItem from="1550725677712" duration="2821000" />
+      <workItem from="1551007615645" duration="1476000" />
+      <workItem from="1551444992443" duration="6255000" />
+      <workItem from="1551505952710" duration="4148000" />
+      <workItem from="1551533913147" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="275461000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1842448" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49948612" visible="true" weight="0.14266118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24828532" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50051385" side_tool="true" weight="0.5" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3100137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3190104" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2265625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35253772" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28806585" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32921812" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/win/mc10.java" />
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/StartAnimation.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/awt/Panel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/SwingControl.java" />
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Listener/FuntionControlListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/DrawControl.java" />
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/LoginInterfaceControl.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/awt/event/KeyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="197" column="28" selection-start-line="197" selection-start-column="28" selection-end-line="197" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Remind.java" />
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Enum/Remind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Listener/ButtonControlListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/awt/SunToolkit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7638">
+          <caret line="402" column="23" selection-start-line="402" selection-start-column="23" selection-end-line="402" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Control.java" />
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Listener/FontControlListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="176" column="15" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Listener/displayInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawRemind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/RemindControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="261" column="5" lean-forward="true" selection-start-line="261" selection-start-column="5" selection-end-line="261" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Listener/CircularButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/CircularButtonControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CircularButtonControl#0;class#CircularButtonControl#0" />
+            <element signature="method#setLocation#0;class#CircularButtonControl#0" />
+            <element signature="method#setSize#0;class#CircularButtonControl#0" />
+            <element signature="method#addCircularButtonEvent#0;class#CircularButtonControl#0" />
+            <element signature="method#paint#0;class#CircularButtonControl#0" />
+            <element signature="method#mouseClicked#0;class#CircularButtonControl#0" />
+            <element signature="method#mousePressed#0;class#CircularButtonControl#0" />
+            <element signature="method#mouseReleased#0;class#CircularButtonControl#0" />
+            <element signature="method#mouseEntered#0;class#CircularButtonControl#0" />
+            <element signature="method#mouseExited#0;class#CircularButtonControl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="910" column="5" lean-forward="true" selection-start-line="910" selection-start-column="5" selection-end-line="910" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/awt/AWTEventMulticaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="288" selection-start-line="288" selection-end-line="288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawRegisterInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="106" column="54" lean-forward="true" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/proxy/DataExchangeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/proxy/ConnectTunnleServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#HeartbeatThread#0;class#ConnectTunnleServer#0" />
+            <element signature="method#run#0;class#HeartbeatThread#0;class#ConnectTunnleServer#0" />
+            <element signature="class#PortTesting#0;class#ConnectTunnleServer#0" />
+            <element signature="method#run#0;class#PortTesting#0;class#ConnectTunnleServer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/FontControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawTunnleRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="143" column="40" selection-start-line="143" selection-start-column="40" selection-end-line="143" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ControlEvent#0;class#DrawTunnleRegister#0" />
+            <element signature="method#removeEvent#0;class#DrawTunnleRegister#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="355" column="12" selection-start-line="355" selection-start-column="12" selection-end-line="355" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="5719" column="29" selection-start-line="5719" selection-start-column="29" selection-end-line="5719" selection-end-column="29" />
+          <folding>
+            <element signature="e#114480#114481#0" expanded="true" />
+            <element signature="e#114527#114528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/awt/event/InputEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawLoginInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/ButtonControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ButtonControl#0;class#ButtonControl#0" />
+            <element signature="method#addButtonControlEvent#0;class#ButtonControl#0" />
+            <element signature="method#paint#0;class#ButtonControl#0" />
+            <element signature="method#mouseDragged#0;class#ButtonControl#0" />
+            <element signature="method#mouseMoved#0;class#ButtonControl#0" />
+            <element signature="method#mouseEntered#0;class#ButtonControl#0" />
+            <element signature="method#mouseOut#0;class#ButtonControl#0" />
+            <element signature="method#mouseClicked#0;class#ButtonControl#0" />
+            <element signature="method#mouseReleased#0;class#ButtonControl#0" />
+            <element signature="method#mouseEntered#1;class#ButtonControl#0" />
+            <element signature="method#mouseExited#0;class#ButtonControl#0" />
+            <element signature="class#MouseIntersect#0;class#ButtonControl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_171/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="782" column="62" lean-forward="true" selection-start-line="782" selection-start-column="62" selection-end-line="782" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/ListControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1011#1149#0" />
+            <element signature="e#1155#1321#0" />
+            <element signature="e#2666#2930#0" />
+            <element signature="e#3121#5373#0" />
+            <element signature="e#5379#5501#0" />
+            <element signature="e#5507#5626#0" />
+            <element signature="e#5632#5885#0" />
+            <element signature="e#5891#5952#0" />
+            <element signature="e#5958#6020#0" />
+            <element signature="e#6026#6086#0" />
+            <element signature="e#6092#6151#0" />
+            <element signature="e#6157#7169#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/TextBoxControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#TextBoxControl#0;class#TextBoxControl#0" />
+            <element signature="method#setIconSize#0;class#TextBoxControl#0" />
+            <element signature="method#paint#0;class#TextBoxControl#0" />
+            <element signature="method#keyPressed#0;class#TextBoxControl#0" />
+            <element signature="method#keyReleased#0;class#TextBoxControl#0" />
+            <element signature="method#mouseClicked#0;class#TextBoxControl#0" />
+            <element signature="method#mousePressed#0;class#TextBoxControl#0" />
+            <element signature="method#mouseReleased#0;class#TextBoxControl#0" />
+            <element signature="method#mouseEntered#0;class#TextBoxControl#0" />
+            <element signature="method#mouseExited#0;class#TextBoxControl#0" />
+            <element signature="method#mouseDragged#0;class#TextBoxControl#0" />
+            <element signature="method#mouseMoved#0;class#TextBoxControl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/Controls/FuntionControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1041#1347#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawTunnleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DrawTunnleList#0;class#DrawTunnleList#0" />
+            <element signature="method#addListControl#0;class#DrawTunnleList#0" />
+            <element signature="method#emptyListControl#0;class#DrawTunnleList#0" />
+            <element signature="method#paint#0;class#DrawTunnleList#0" />
+            <element signature="method#ControlEvent#0;class#DrawTunnleList#0" />
+            <element signature="method#removeEvent#0;class#DrawTunnleList#0" />
+            <element signature="method#ControlListenerEvent#0;class#DrawTunnleList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/proxy/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1129">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#sendMessage#0;class#Proxy#0" />
+            <element signature="method#regtunnleresult#0;class#Proxy#0" />
+            <element signature="method#starttunnle#0;class#Proxy#0" />
+            <element signature="method#remind#0;class#Proxy#0" />
+            <element signature="method#loginverification#0;class#Proxy#0" />
+            <element signature="method#tunnlelists#0;class#Proxy#0" />
+            <element signature="method#regresult#0;class#Proxy#0" />
+            <element signature="class#AcceptDataCommunication#0;class#Proxy#0" />
+            <element signature="class#HeartbeatThread#0;class#Proxy#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="method#Main#0;class#Main#0" />
+            <element signature="method#paint#0;class#Main#0" />
+            <element signature="method#update#0;class#Main#0" />
+            <element signature="class#UpdateThread#0;class#Main#0" />
+            <element signature="method#main#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/GlobalVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+          <folding>
+            <element signature="method#DrawControl#0;class#DrawControl#0" />
+            <element signature="method#ControlEvent#0;class#DrawControl#0" />
+            <element signature="method#paint#0;class#DrawControl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="method#DrawState#0;class#DrawState#0" />
+            <element signature="method#ControlEvent#0;class#DrawState#0" />
+            <element signature="method#removeEvent#0;class#DrawState#0" />
+            <element signature="method#paint#0;class#DrawState#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/win/mc10/Controls/DrawSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="method#DrawSetting#0;class#DrawSetting#0" />
+            <element signature="method#ControlEvent#0;class#DrawSetting#0" />
+            <element signature="method#removeEvent#0;class#DrawSetting#0" />
+            <element signature="method#paint#0;class#DrawSetting#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Client:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json-20180813</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
