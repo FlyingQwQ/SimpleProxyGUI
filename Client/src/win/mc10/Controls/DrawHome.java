@@ -50,7 +50,15 @@ public class DrawHome implements displayInterface {
 
     public void paint(Graphics g) {
         g.setColor(new Color(255, 255, 255, 150));
-        g.fillRoundRect(161 + ((Main.frame.getWidth() - 161) / 2 - (400 / 2)), 86, 400, 120, 15, 15);
+        int X = 161 + ((Main.frame.getWidth() - 161) / 2 - (400 / 2));
+        int Y = 86;
+        g.fillRoundRect(X, Y, 400, 120, 15, 15);
+        g.setColor(new Color(0, 0, 0, 150));
+        Font font = new Font("Microsoft YaHei", Font.BOLD, 20);
+        g.setFont(font);
+        FontMetrics fm = Toolkit.getDefaultToolkit().getFontMetrics(font);
+        String str = "该版本为测试版本，很不稳定";
+        g.drawString(str, X + ((X / 2) - (fm.stringWidth(str) / 2)), Y + ((Y / 2) - (fm.getHeight() / 2)));
 
         if(!GlobalVariable.isLogin) {
             this.fontControl1.paint(g);
